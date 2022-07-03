@@ -1,7 +1,7 @@
 {
     "name": "No Bitches?",
     "version": "1.0.0",
-    "description": "Generate a Megamind meme using https://no-bitch.es",
-    "author": "ClosetFurry#7981",
+    "description": "Quickly generate and send 'no bitches?' Megamind memes using https://api.no-bitch.es",
+    "author": "Smile™#0200, inspired by ClosetFurry#7981",
     "license": "GPL-3.0"
 }
