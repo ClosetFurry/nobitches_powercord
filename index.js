@@ -19,7 +19,7 @@ module.exports = class bitches extends Plugin {
     startPlugin() {
         powercord.api.commands.registerCommand({
             command: 'nobitches',
-            description: 'Use no-bitch.es API to generate and send a "no bitches?" Megamind meme.',
+            description: 'Use https://api.no-bitch.es to send a "no bitches?" meme with custom text.',
             usage: '{c}nobitches <text>',
             executor: (args) => {
                 return {

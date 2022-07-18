@@ -8,11 +8,9 @@ This plugin is inspired by [ClosetFurry/nobitches_powercord](https://github.com/
 
 # Installation
 
-The easiest way is to send https://github.com/Flower-178/no-bitches-plugin somewhere inside Discord, then right click the link and there should be an option to install the plugin in the context menu (you might have to right click twice, I blame the caching)
+Clone this repo to your plugins folder with Git
 
-You can also clone this repo with git instead
-
-...or manually download/copy and paste the files
+Also, I removed the license because this plugin is literally just 38 lines of code. You can do whatever you want with it
 
 ### Todo
 1. Make it so that if no caption is provided plugin sends the 'default' no bitches meme
