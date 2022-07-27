@@ -1,3 +1,6 @@
+<h1 align="center"><b>NOTICE!</b></h1>
+<p align="center">Since Powercord is now End of Life, this plugin will not be updated. It works on <a href="https://github.com/replugged-org/replugged">Replugged</a> tho!</p>
+
 # nobitches_powercord
 A powercord plugin that allows you to send "No Bitches" Megamind meme with custom text with a single command.
 
